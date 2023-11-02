@@ -101,6 +101,8 @@ public class Trivia {
     private void identifyCorrectAnswer(){
         //takes all the options and checks if the description contains any of the options, if so, that
         //option becomes the correctAnswer
+        if
+
     }
 
 }
